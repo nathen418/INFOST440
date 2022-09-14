@@ -1,5 +1,5 @@
-# [CLASS NAME/NUMBER]
-A repo of all the code written for my **[Full Class Name]  [Class ID] [Semester Year taken]** class at [Institution Name]. Kept as an archive. The assignment sheets and instructions for all code are not shared, only sample code answers. 
+# [INFOST440]
+A repo of all the code written for my **Web Application Development (INFOST440) Fall 2022** class at the University of Wisconsin Milwaukee. Kept as an archive. The assignment sheets and instructions for all code are not shared, only sample code answers. 
 
 ## Modifications
 - no issues will be resolved
